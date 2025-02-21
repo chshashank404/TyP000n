@@ -1,0 +1,5 @@
+aiohttp
+aiodns
+whois
+argparse
+ssdeep
